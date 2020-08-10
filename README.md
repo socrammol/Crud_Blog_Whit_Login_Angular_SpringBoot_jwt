@@ -37,7 +37,7 @@ npm start
 
 Apos isso pode-se acessar o sistema pelo link [Sistema](http://localhost:4200/).
 
-Lembrando que a porta do sistema de front e a 4200 e a do back e a 8086 e podem ser trocada,
+Lembrando que a porta do sistema de front e a 4200 e a do back e a 8086 e podem ser trocadas,
 
 apos abrir o sistema , tem a nessecidade de criar um usuario no Sign Up, apos isso pode-se acessar o sistema pelo  Login
-e possivel incluir arquivos no sistema , mas devida ha algumas complicação tecnicas junto ao jwt nao esta sendo possivel acessa-las
+e possivel incluir arquivos no sistema , mas devida a algumas complicações tecnicas junto ao jwt não esta sendo possivel acessa-las
